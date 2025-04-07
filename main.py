@@ -66,3 +66,5 @@ else:
 
 print(f"\n✅ Predicted rating for User1 → Movie C: {round(predicted_rating, 4)}")
 print("Understood")
+
+print("Hello Mayur, Kavin")
