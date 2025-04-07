@@ -1,4 +1,5 @@
 import numpy as np
+imp
 
 ratings = np.array([
     [5, 3, np.nan],
